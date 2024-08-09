@@ -32,7 +32,7 @@ ul{
 
 img{
  width: 20%;
- border: solid 4px rgb(17, 152, 149);
+ border: solid 4px rgba(78, 88, 88, 0.349), 0.349);
 }
 li{
     margin-left: 80%px;
